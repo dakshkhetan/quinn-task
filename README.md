@@ -14,3 +14,11 @@ A diary with a calendar view and a carousel web app.
 - **react-slick**
 - **moment.js**
 - **Tailwind CSS**
+
+### TODO
+
+- Continuation token data fetching
+- Scroll to the selected post inside the carousel
+- Format dates to bold of the currently visible month in viewport
+- Improve responsiveness
+- misc changes
