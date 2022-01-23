@@ -1,0 +1,647 @@
+{
+  "responseobjects": [
+    {
+      "continuationtoken": {
+        "sorton": "calendardatetime, createdontimestamp",
+        "token": "04-11-2021 13:36:34.254000|04-11-2021 13:38:25.578781"
+      },
+      "posts": [
+        {
+          "id": "992e0df6-ff5e-4bce-8204-04f09d46535d",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_a36349eb-c681-46af-b62f-a75d02427931_rIXRA-6tp",
+              "fileid": "61e5927f340a1c58783ab931",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_37244b7a-a9b5-467a-8eac-bf9df147c5b6_n66JiqLnD",
+              "fileid": "61e5927f361cb8764a37aced",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed with Shea \nDeep conditioner Shea \nRaked through Jackie leave in \nStyled upside down with naughty -Sophia style \nMouse scrunch \nDiffused",
+          "typeofday": ["protein treatment", "deep conditioning"],
+          "calendardatetime": "2022-01-17T15:59:05.132"
+        },
+        {
+          "id": "a14cdf1e-8d59-4941-adf6-0b0c74876428",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_fd9038fc-4991-4df3-8be4-bda402fcbb3f_C6EuM3UT8s4",
+              "fileid": "61e038c93a8f762c8b29f25b",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_736cb44b-c4b7-4d6c-bfe1-30a2f4c37972_Rb4sVpHY9IM",
+              "fileid": "61e038c92c78e07b74d7173b",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_a3199f58-d874-4a5d-9596-5a6794a5a148_8ddy9lcQjwa0",
+              "fileid": "61e038c93a8f762c8b29f261",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_e9c43d6c-eed5-4742-bb2a-9010b72e57b4_-aBl8r2GSI1",
+              "fileid": "61e038c92c78e07b74d71741",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_f7245dc0-4b68-45b4-9e2b-f6daa78b84a0_R_shoK9lOY8",
+              "fileid": "61e038ca3a8f762c8b29f267",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed with Shea -I think Jackie is actually better \nShea protein treatment \nJackie leave in \nDenman brush style naughty \nDiffused \nScrunched with oil",
+          "typeofday": ["hair oiling", "protein treatment"],
+          "calendardatetime": "2022-01-13T14:34:39.816"
+        },
+        {
+          "id": "6aca9ccf-c751-4864-acbf-87b88a0d6ebd",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_e5f9620e-76a8-4945-860a-ab8f5ed5fab7_CMLGibAYDo",
+              "fileid": "61dc43cdc406dc74f9f4d3ba",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_d66ad806-b3b0-487d-9be6-ff56670c8ee6_13Fi0wj5D57V",
+              "fileid": "61dc43cfb669192806ebca45",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_3ca8de94-9ffd-4fde-9693-9d69fd2b1ade_AlPP6y4u2",
+              "fileid": "61dc43cfe7d2d367d0c3f8cb",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_1a24f9cf-7c5f-4806-9d3a-60cd5117d23f_8npbYNxKBx",
+              "fileid": "61dc43cfc406dc74f9f4d3cb",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_9e4e4bbb-c723-405e-a551-f0cacca98c74_vAN74e3Xn25",
+              "fileid": "61dc43d0b669192806ebca51",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed and conditioned with Shea \nLeave in Shea no protein \nDenman brush naughty \nDiffused \nAragon oil",
+          "typeofday": ["hair oiling"],
+          "calendardatetime": "2022-01-10T14:32:38.145"
+        },
+        {
+          "id": "3090ccd2-9b14-4381-aa68-f5ef5378222a",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_479fee31-31c3-4f54-82d1-9d7d042fe919_p6M2fIggdd",
+              "fileid": "61d311bec30f026b67875384",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_d63bbf14-1cc9-4a29-9b34-5a053c47bdbf_bNTsvJeRtDc",
+              "fileid": "61d311bfb8290444bc87846e",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_db11b8c5-f0c4-4927-b3fd-0d1820e1f47d_SNHEw4Nr4K",
+              "fileid": "61d311bec30f026b6787538a",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_b0734f64-a9bc-436f-a3c2-fdee8e227445_-I-hHLW3SN7J",
+              "fileid": "61d311bfb8290444bc87846a",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed with Jackie \nShea mask \nLeave in blueberry raked\nDenman brush naughty \nPanteen mouse \nDiffused",
+          "typeofday": ["deep conditioning", "hair oiling"],
+          "calendardatetime": "2022-01-03T15:08:56.421"
+        },
+        {
+          "id": "492b8834-45da-4d0a-849f-05f51bf2a653",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_fd85c711-9c37-4e73-9690-70f5a84477d3_cyYpwDTJq",
+              "fileid": "61c09cc7aa16ad2c3c87aa54",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_1cf17cd0-1940-44a8-86dd-9c74b15e6990_QPFCPVyjP",
+              "fileid": "61c09cc757364151a9165982",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_2eeedcc7-ec5c-4924-9ef2-5a6bd58d3d74_yREoxgHH65c",
+              "fileid": "61c09cc6c9c2817b15fa9c56",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_ee607948-888b-40aa-b6c4-bad701f91063_Bf4sJHO9GI",
+              "fileid": "61c09cc5f4068b3313dc5d8b",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_0fe1203e-e248-44ca-8843-16b0db4e724d_yii4O7eFhN",
+              "fileid": "61c09cc6aa16ad2c3c87aa4e",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed with Shea \nShea mask \nLeave in Jackie raked \nDenman brush naughty \nDiffused",
+          "typeofday": ["deep conditioning"],
+          "calendardatetime": "2021-12-20T15:08:58.787"
+        },
+        {
+          "id": "ae1725ac-56b7-4c27-8e35-de6556f0e60e",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_7e9a8cbe-4848-4c09-afc6-414cbc4970b9_5kjuSaXZFl",
+              "fileid": "61bc9feec3a98a320cf9a420",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_ab1448a7-d360-4243-84c8-fcb913e1fdbb_-Mj_YBupXai",
+              "fileid": "61bc9fee3b1fbb32f698d1b4",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_cd6cdc6a-84cc-4941-92f0-3cce8e4a7d21_OA3HqSz7J8",
+              "fileid": "61bc9feec3a98a320cf9a41a",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_871ce44a-09ac-4140-9a03-df2732862bfa_xuNkzfsfk6Tl",
+              "fileid": "61bc9fee3b1fbb32f698d1ba",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_d7828476-fb2c-4137-bdfc-9ad1af51bbed_bechi3xGyR",
+              "fileid": "61bc9feec3a98a320cf9a42c",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed with Cantu and conditioner \nRaked in blueberry leave in \nDenman brush curl smith \nMicro plop \nDiffused",
+          "typeofday": null,
+          "calendardatetime": "2021-12-17T14:33:11.896"
+        },
+        {
+          "id": "5bc5115c-d26a-4f93-bfe1-d4aff4c1b812",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_8ed17f22-41d0-47d8-bc84-e2465cb569cd_xL7rWP0ry",
+              "fileid": "61b75bba093f7e6c0f06cab2",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_ba33abe2-d2bf-44d0-aec6-f1e5ffe0b036_8Jf6qbeej",
+              "fileid": "61b75bba68e2ec66faa4c7d0",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_8ee336af-eeee-4e4d-b863-7c3a691fab11_3EHh0ycHwB9",
+              "fileid": "61b75bbafdc0a54e6e23f676",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_47d90731-fc3e-4da2-bf39-175adb2ef038_-Hbuh5H2s",
+              "fileid": "61b75bc9093f7e6c0f06cae4",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed with Shea and conditioner \nProtein treatment Shea \nBlueberry leave in raked through \nDenman brush curlsmith \nCantu gel over \nDiffused",
+          "typeofday": ["protein treatment"],
+          "calendardatetime": "2021-12-13T14:40:42.769"
+        },
+        {
+          "id": "beaca916-68e0-4c5f-b375-5d0a4d98acfa",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_d24eb37d-944e-46b8-8c87-eef0dfd94bbe_-2-Jy9l1L",
+              "fileid": "61af7a2b2eeab84fd4233193",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_c4dbaf48-facd-4ce8-a907-1dc4528621e8_O2zPks8wK",
+              "fileid": "61af7a29e9a01b3841eada25",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_1bc79481-249a-4557-9fb3-f6532c82857c_V9ZpdG3px7v",
+              "fileid": "61af7a2bc6ad1311550f774e",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_afb266af-08d6-4d3e-ada5-171a330d2c2b_JAwjWwJNv",
+              "fileid": "61af7a2a969fc967bcb6cb76",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_8b998355-56db-4652-81c1-c98766bf69f0_WPrY1qRzGi",
+              "fileid": "61af7a2b2eeab84fd4233199",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed with Jackie and conditioner \nShea protein leave in raked in upside \nDenman brush styled naughty \nMouse panteen scrunch \nDiffused",
+          "typeofday": ["hair oiling"],
+          "calendardatetime": "2021-12-07T15:12:45.152"
+        },
+        {
+          "id": "6b67fe06-db08-4038-b2ef-89a52d86cfbb",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_0655d149-fca8-4706-9e1a-4ef969d01d2a_ys9cHcAt9Eu",
+              "fileid": "61a8d69a90a0fd3fe8b205ec",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_71e2da7b-486d-4899-aa8e-82874e104da3_mP9WVUPeL",
+              "fileid": "61a8d69bdcab666b6bd7fd64",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_570ac441-cbdc-44f4-97ee-54b3890a27b7__2T0b6i780n",
+              "fileid": "61a8d69b90a0fd3fe8b205f2",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_b6d6d772-7207-42d9-9293-bd836ad79b36_clhap4NIJU",
+              "fileid": "61a8d69bdcab666b6bd7fd60",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_e57d32cb-e4be-4b55-ac1a-4a8cd4a9c464_z3NrXS-XsMoh",
+              "fileid": "61a8d69b90a0fd3fe8b205f8",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed with Jackie and conditioner \nNo leave in! \nStyled with blueberry brushed upside \nScrunched with Cantu gel \nDiffused",
+          "typeofday": ["hair oiling"],
+          "calendardatetime": "2021-12-02T14:20:55.226"
+        },
+        {
+          "id": "01a3240c-b824-4433-b622-37d9eb310d91",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_7745ec6e-c02f-4e00-8ebe-f4104f535e48_CVZs_NTdk",
+              "fileid": "61a4e5f8a0509478254958d0",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_a7fbd7a2-5203-4d10-bf05-2aa06abc266d_4Sr-gEO9yB",
+              "fileid": "61a4e5f94d45b2428c98259d",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_c3053a1c-dd0e-4b57-b4fa-2e926200ffb1_nl4Sd7wN03a",
+              "fileid": "61a4e5fad77087136c318eda",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_2f60bf81-e960-43bc-86f3-ad26dc4b3f8f_LxqB8BYqC",
+              "fileid": "61a4e5faa0509478254958db",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed with Cantu and conditioner \nLeave in Jackie brushed upside down \nRaked in Cantu then brushed upside \nScrunched with mouse micro plop \nDiffused",
+          "typeofday": null,
+          "calendardatetime": "2021-11-29T14:37:54.161"
+        },
+        {
+          "id": "4eaadb51-042a-4d1e-aa4d-b11f2e69e4d1",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_60db85de-1f33-4f73-b578-e462666d2b90_E1YSzu1oG",
+              "fileid": "61a23d1fbcb8e943b5ee4fcd",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_483789b2-7494-4eae-9d92-636b65021916_E2Ptu2VTQ",
+              "fileid": "61a23d206670bf5fbbb60b23",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_90eae02f-2752-413a-a30f-0b2ff75f0851_Lpy51v3UsZC",
+              "fileid": "61a23d206fe5770bf0f47854",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_10173b53-368e-4028-a699-8664b8f79cf0_RrA8fvufq",
+              "fileid": "61a23d1f74f7137e6d16eba3",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_0c76456a-5725-493d-a7ee-ccb85763435d_qlRzBMGKj",
+              "fileid": "61a23d1fbcb8e943b5ee4fd3",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed with Shea and conditioner \nProtein treatment Shea \nLeave in blueberry \nBrushed upside naughty \nScrunched with mouse -fluffed roots",
+          "typeofday": ["protein treatment"],
+          "calendardatetime": "2021-11-27T14:12:21.572"
+        },
+        {
+          "id": "1c8aca37-541f-4ccb-9b82-6bb6b9263485",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_715bc067-9808-4fb8-b401-119f4c3b5e9a_s76XYIAd2lb",
+              "fileid": "619baa1dbc81a651fdb8699e",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_6a0ad057-fc12-4af9-8d7f-136bbd67e35e_3m_JNotz8",
+              "fileid": "619baa1dc212087903441f86",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_fcf39f9e-3fd5-458b-8bab-fad7a3aae460_YfVEhISQsX",
+              "fileid": "619baa1d7dd2a52660a50bd7",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_f506c401-a16c-4a90-8cc8-3745fa3b0cdc_aeEzKdtEd",
+              "fileid": "619baa1dc0a1af0332faa332",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_a82a8d0d-bbd2-4b30-8a8e-c5ac613eee26_cSMS3rqYE5OU",
+              "fileid": "619baa1dbc81a651fdb869a4",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed with Shea and conditioner \nLeave in Shea with protein raked no brush \nRaked in naughty then brushed upside down \nScrunched with mouse \nDiffused",
+          "typeofday": ["hair oiling"],
+          "calendardatetime": "2021-11-22T14:31:32.59"
+        },
+        {
+          "id": "249fdf99-b267-48c8-93b4-394ad8ed2cab",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_160d2c49-07cf-4b21-bef4-badcdee73c03_kRDSXuwkQy",
+              "fileid": "619914e4f27c3140b8db556b",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_82cdfbea-6cdc-4874-b9ea-8978feec189e_2yTqfGTSJr-",
+              "fileid": "619914ddc3bd6d24921ff52e",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_cdfd881c-1fae-470d-8138-94e839129d10_AH0gcxuWj",
+              "fileid": "619914ddf75ffb2cab8ddaa6",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_afbd0b61-4a8e-4e8f-9805-e44f5170144f_JXuWIMlJDlH",
+              "fileid": "619914e4f27c3140b8db5565",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_3efd76b0-8112-4b43-bca7-d200c0f348ca_icB8qyDeOeP",
+              "fileid": "619914dec3bd6d24921ff569",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed with Jackie \nLeave in blueberry \nRaked then denman naughty \nScrunched with mouse \nDiffused",
+          "typeofday": null,
+          "calendardatetime": "2021-11-20T15:30:01.146"
+        },
+        {
+          "id": "30d0db42-0489-40ef-9aa8-6ca3fead0914",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_aa26bbf7-01f3-4cd3-ae66-5050614d4fc9_lKC2hHZSlp",
+              "fileid": "6196634c9de04b3f2e117075",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_71ea1f41-5226-4a07-9921-9d5851c46981_qeKoDowPZCxp",
+              "fileid": "61966351569efe4fb2470ca1",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_5ae37b83-363b-453b-8e25-04d03a15e16a_E55re7QC3",
+              "fileid": "6196634d15de5d783f888a8f",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_2622aabb-20b9-4680-95f4-e48bec04aab6_QQPlNZXvPL",
+              "fileid": "6196634e9de04b3f2e11707b",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_86731f32-f264-4f12-bcd4-eef78a375c5b_Jzcrd7JB4_H",
+              "fileid": "61966351569efe4fb2470c9b",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed with Shea \nProtein treatment Shea \nLeave in Jackie \nStyled with naughty raked then combed upside down \nScrunched with panteen mouse \nDiffused \nScrunched with oil",
+          "typeofday": ["protein treatment"],
+          "calendardatetime": "2021-11-18T14:28:16.544"
+        },
+        {
+          "id": "f78ef795-062e-4ca9-b674-401d01fbafda",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_5fa0cf75-4100-4c57-9ab2-373e42f0ad6b_6z831Cb6c",
+              "fileid": "61926f695f240318815d226b",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_8ce4f69a-7825-457f-af2c-f6b31c7dfdaf_3SUvGNELV",
+              "fileid": "61926f690767c37b5dae2201",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_07979f79-9e53-4568-88cc-b22fe23c64db_Lj8163IePRv",
+              "fileid": "61926f6a1da8fd55de363ac0",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_2da146c5-433d-42d0-8788-b24ecbbe77aa_kbf-mhfpH",
+              "fileid": "61926f6a5f240318815d2277",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed with Cantu \nDeep conditioner Shea \nShea leave in with protein \nStyled with naughty denman \nDiffused \nScrunched with oil",
+          "typeofday": ["deep conditioning"],
+          "calendardatetime": "2021-11-15T14:30:53.386"
+        },
+        {
+          "id": "611b336f-7596-44b7-bf45-772f0be15726",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_6839fe64-98fc-4f41-8545-378b66164d2e_hrzl82zKnDp",
+              "fileid": "6191297d45265718e30d0391",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_0b468e94-9521-4bb7-92d4-95244fd1305d_IVrmlrnVa",
+              "fileid": "6191297b75360a13c41df7eb",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_b6eca50b-7870-46d9-8d89-34bf0a97e95e_0N9D45tj_",
+              "fileid": "6191297cc15c347c694351cd",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_834bec0c-e9fe-4a8c-b5d8-513d2e8b9f61_CE2jZSdp3P2",
+              "fileid": "6191297d45265718e30d0397",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_244444d2-1187-489f-8c44-5e972f25195b_Whchh8R5Z",
+              "fileid": "6191297ec15c347c694351da",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Dyed last night \nWashed with Shea \nBlueberry leave in \nStyled with curlsmith denman \nMouse panteen \nDiffused \n\nRefreshed this morning with coconut",
+          "typeofday": ["hair cut", "hair color"],
+          "calendardatetime": "2021-11-14T15:19:56.186"
+        },
+        {
+          "id": "3e2a2b9a-87c5-4efd-9868-990c29a7bd03",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_903d0fa5-2a0c-4474-b61e-4136c1cf68ca_8kooWWPG3G",
+              "fileid": "618e7e986d843c3a3b47edc7",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_2da44dac-ec4d-4836-a4d4-9fff78646079_bVd-AkqCXKh",
+              "fileid": "618e7e9725742d23b3223def",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_9e126cf8-53ab-4d91-8080-9e3396427b9e_ecIdObp-t",
+              "fileid": "618e7e970729a4795725f2fb",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_b1acfc24-838c-4f23-9bcb-e16d8239f873_WO9Eze4DY",
+              "fileid": "618e7e986d843c3a3b47edd2",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_cf93ab4a-01f5-4f39-9c93-b87ca4fe0df4_y6JDBL-OOWY",
+              "fileid": "618e7e9825742d23b3223dfa",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 2,
+          "text": "Oiled last night \nWashed with Shea and conditioner\nLeave in blueberry \nStyled with denman brush naughty \nGlazed with panteen mouse \nDiffused",
+          "typeofday": ["hair oiling"],
+          "calendardatetime": "2021-11-12T14:46:48.843"
+        },
+        {
+          "id": "b56d8ce5-bc8c-4d65-848a-d9098c6d0fc5",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_b58550f1-5031-40fd-bcc4-d6331e83cca5_VH5AHdCgyE6v",
+              "fileid": "6189378cac989c32ae024347",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_32677953-54c8-4a71-8a82-36497adad9ed_5M_6hYOuP",
+              "fileid": "6189378c3ad93e1df798e888",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_7965589d-8781-4dd4-b40b-ee1a0413d1b4_a-9PpDCQJ",
+              "fileid": "6189378cbfec69644cedd2aa",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_b1353368-98e5-4939-ace7-db9d5fc40217_BXIgOD7dtBHq",
+              "fileid": "6189378cac989c32ae02434d",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed with Jackie and conditioner \nProtein treatment Shea \nLeave in Jackie brushed upside down \nRaked through curlsmith then brush \nScrunched with panteen mouse \nDiffused",
+          "typeofday": ["protein treatment"],
+          "calendardatetime": "2021-11-08T14:42:31.747"
+        },
+        {
+          "id": "ad5d9341-4139-485b-85be-6005d53a75a2",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_f0eabd41-1f42-4bec-afb4-c51117c91573_qU4cwFFtv",
+              "fileid": "618682f2d70fa922895bc900",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_c71d783d-b196-41f5-aba8-dc211d601a8e_0nYWh9Zigr8",
+              "fileid": "618682f34a6b0406b3cdab83",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_962c510f-e90f-4a32-8f7e-3d6485c0ed7e_5r4nXSZAI",
+              "fileid": "618682f2d70fa922895bc8fc",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_fa124673-0cf7-41f0-a3d8-7999ba862f1d_N9mjqaUDwCC",
+              "fileid": "618682f44a6b0406b3cdab9c",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_a4bca974-1650-438e-8796-2d2288c06bd0_clgKK6btIZwr",
+              "fileid": "618682f44a6b0406b3cdab98",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed with Jackie and conditioner \nLeave in blueberry brushed upside down \nRaked in naughty then brushed then fluffed roots \nScrunched with panteen mouse \nDiffused",
+          "typeofday": null,
+          "calendardatetime": "2021-11-06T13:21:22.301"
+        },
+        {
+          "id": "d384a26a-fc16-4fe6-9a03-f838b11689f5",
+          "media": [
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_b68ed9ee-6f86-4bc3-8147-b7d1f576ed4c_4qeRAaZFP",
+              "fileid": "6183e21d476b127947ae5008",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_ccd054da-e5b3-4f21-9588-4f1bed5886c3_vbrI513u_",
+              "fileid": "6183e21d35616c6e1b863ebc",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_9b5d0b03-ab46-451e-a882-557828929aca_jJiEqbMrlog",
+              "fileid": "6183e21d2dfdfa6de27fa68c",
+              "aspectratio": "9:16"
+            },
+            {
+              "mediaurl": "https://ik.imagekit.io/bj96n986jb/prod/adbef521-7cf6-4344-af48-a9480df46549_b0b33daf-f77b-4db9-b948-549739890b93_SEtzqVA9G-",
+              "fileid": "6183e21d476b127947ae500e",
+              "aspectratio": "9:16"
+            }
+          ],
+          "rating": 3,
+          "text": "Washed with Cantu and conditioner \nLeave in Shea with protein upside down brush \nRaked in naughty then brushed upside down \nDid houseofcurls method with mouse scrunch \nDiffused",
+          "typeofday": null,
+          "calendardatetime": "2021-11-04T13:36:34.254"
+        }
+      ]
+    }
+  ]
+}

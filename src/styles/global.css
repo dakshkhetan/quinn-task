@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-slide {
+  @apply opacity-50 scale-90 mt-[10vh] transition-all ease-in-out duration-300;
+}
+
+.slick-center {
+  @apply opacity-100 scale-100;
+}
+
+.slick-prev {
+  @apply left-4;
+}
+
+.slick-next {
+  @apply right-4;
+}
